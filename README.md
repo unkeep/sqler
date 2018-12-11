@@ -1,2 +1,2 @@
 # sqler
-One more sql builder
+One more sql builder for go
